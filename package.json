@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-scrapeunblocker-google-play",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for the Google Play Scraper Apify Actor by ScrapeUnblocker: Google Play app details and app search results with rating, installs, price and developer as JSON",
 	"license": "MIT",
 	"homepage": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-google-play#readme",
